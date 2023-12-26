@@ -6,7 +6,7 @@ from PIL import Image
 import streamlit.components.v1 as components
 import os
 
-import matplotlib.pyplot as plt
+
 from xgboost import XGBClassifier
 
 
